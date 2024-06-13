@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_setting.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_favorite.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_film.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/list_item_film.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/list_item_film_horizontal.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/list_item_trailer.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/toolbar_main.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54471f1a-db71-46a5-a7a7-8cf5f39add91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/collage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/102046701-102046701_advanced-web-development.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/4-Introduction to AngularJS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/5-Filters-Services-Module-Directives.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/6-Forms- Validation and Routing.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/7-NodeJS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/8-MongoDB.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/Advanced Web Technology.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/AngularJS-Essentials.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/UNIT-3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/Unit-2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/angular js/Practical 10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/angular js/Practical 11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/angular js/Practical 12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/angular js/Practical 8.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/angular js/Practical 9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/angular js/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/angular js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/angular js/contect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/angular js/controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/angular js/custom filter.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/angular js/education.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/angular js/expression.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/angular js/hobbies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/angular js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/angular js/lec02.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/angular js/new.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/angular js/nodejs/mongodb/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/angular js/practical 6.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/angular js/practical 7.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/angular js/routing 1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/practicals/PRACTICAL 13.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/practicals/Practical 10.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/practicals/Practical 10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/practicals/Practical 11.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/practicals/Practical 11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/practicals/Practical 12.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/practicals/Practical 12.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/practicals/Practical 6.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/practicals/Practical 6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/practicals/Practical 7.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/practicals/Practical 7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/practicals/Practical 8.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/practicals/Practical 8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/practicals/Practical 9.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/practicals/Practical 9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/practicals/pRACTICAL 13.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/practicals/practical 14.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/practicals/practical 14.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/practicals/practical 15.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/practicals/practical 15.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AWD/unit_1_PPT.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/102046708-102046708_information-and-network-security.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/Coursera 3NDHVZSNRWFS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/INS_Mid Semester Syllabus.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/Practiacal 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/Practical 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/Practical 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/Question Bank.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/assignment 2/WhatsApp Image 2024-02-21 at 22.03.04_a7706143.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/assignment 2/WhatsApp Image 2024-02-21 at 22.03.04_feb3a970.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/assignment 2/WhatsApp Image 2024-02-21 at 22.04.40_5ac2a241.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/assignment 2/WhatsApp Image 2024-02-21 at 22.04.41_e20f9358.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/assignment 2/WhatsApp Image 2024-02-21 at 22.04.44_310de1ff.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/assignment 2/WhatsApp Image 2024-02-21 at 22.04.44_c9164326.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/assignment 2/WhatsApp Image 2024-02-21 at 22.04.45_17e27c23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/assignment 2/WhatsApp Image 2024-02-21 at 22.04.45_2d279672.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/assignment 2/WhatsApp Image 2024-02-21 at 22.04.57_b52668b2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/assignment 2/s-des.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/hill cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/playfair.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/practical 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/practical 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/practicals/P11.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/practicals/P11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/practicals/Prac10.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/practicals/Prac10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/practicals/Practical 12.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/practicals/p-12.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/practicals/p-12.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../INS/referencematerialins.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/102046709-102046709_internet-of-things.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/102046709-IOT_Lab Manual.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/3160716_IoT_GTU_Study_Material_Presentations_Unit-4_09042021040349AM.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/9-iot.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/Coursera 5NVJZRD6RRU2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/Email Verification.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/IOT Assignment 1_27-1-24.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/PRACTICAL 2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/PRACTICAL 3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/PRACTICAL 5.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/PRACTICAL 9.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/Prac1IoTjay.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/Practical 10.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/Practical 11.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/Practical 4.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/Practical 6.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/Practical 8.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/Practical7.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/Unit-1_Introduction of IoT.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/Unit-2_Protocol for IoT.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/Unit-3_Sensors_Microcontrollers and Interfacing.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/Unit-5_Application Building of IoT.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/Unit-6_Arduino and Raspberry Pi-Part-1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/Unit-6_Arduino and Raspberry Pi-Part-2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/Unit-7_IoT Security.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/WhatsApp Image 2024-03-12 at 18.31.04_eda40877.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/prac7.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/prac7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/prac7_IOT_sunny.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/analytics.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/api.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/arduinoUnoR3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/attiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/autodesk-logo-blk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/avatar-active_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/battery9V.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/batteryAA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/batteryCoinCell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/batteryLemon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/batteryPotato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/breadboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/breadboardMini.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/breadboardSmall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/capacitor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/capacitorPolarized.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/cfp-core-vendors.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/cfp-core.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/circuits-compiled.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/circuits.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/communicatorBundle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/communicatorBundle.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/diode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/diodeZener.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/dipSwitchDPST.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/dipSwitchSPSTx4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/dipSwitchSPSTx6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/display7SegmentCommonAnode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/display7SegmentI2C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/displayLCD16x2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/displayLCD16x2I2C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/featureFlagsBundle.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/functionGenerator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/header8pin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/ic74HC00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/ic74HC02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/ic74HC04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/ic74HC08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/ic74HC10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/ic74HC11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/ic74HC132.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/ic74HC14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/ic74HC20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/ic74HC21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/ic74HC27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/ic74HC283.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/ic74HC32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/ic74HC4017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/ic74HC595.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/ic74HC73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/ic74HC74.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/ic74HC75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/ic74HC86.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/ic74HC93.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/icCD4511.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/icComparatorDualLM393.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/icComparatorQuadLM339.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/icHBridgeL293D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/icOperationalAmplifier741.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/icOptocoupler4N35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/icPCF8574.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/icTimer555.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/icTimer556.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/inductor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/infraredRemoteControl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/keypad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/led.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/ledRGB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/lightBulb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/microbit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/microbitBreakout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/motorControllerPololu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/motorDCArduinoKit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/motorDCEncoderLarge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/motorDCEncoderSmall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/motorDCHobbyGear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/motorServoArduinoKit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/motorServoDFRobotKit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/motorVibration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/multimeter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/neopixelBreadboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/neopixelJewel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/neopixelRing12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/neopixelRing16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/neopixelRing24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/neopixelStrip10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/neopixelStrip12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/neopixelStrip16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/neopixelStrip20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/neopixelStrip4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/neopixelStrip6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/neopixelStrip8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/nr-1016.min.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/oscilloscope.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/photoDiode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/photoResistor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/photoTransistor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/piezo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/potentiometer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/powerSupply.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/pushButton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/react-bundle.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/react.bundle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/recaptcha__en.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/regulator3V.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/regulator5V.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/relayDPDT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/relaySPDTBlack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/resistor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/sensorFlex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/sensorForce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/sensorGas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/sensorInfrared.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/sensorPassiveInfrared.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/sensorSoilMoisture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/sensorTemperature.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/sensorTilt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/sensorTilt4Pin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/sensorUltrasonicDistance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/sensorUltrasonicDistance4Pin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/slideSwitch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/solarCell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoAnalogInSerialOut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoAnalogInput.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoAnalogReadSerial.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoBlink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoBlinkWithoutDelay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoBreadboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoButton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoCalibration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoDebounce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoDigitalReadSerial.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoFade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoInfraredReceiver.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoInternalSerialPullup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoLCD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoLCDI2C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoMoisture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoNeopixel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoReadAnalogVoltage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoServo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoSmoothing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoStateChangeDetection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoToneKeyboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoToneMelody.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoToneMultiple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoTonePitchFollower.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoUltrasonicRangeFinder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterArduinoVoltageMeter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterBasicDCMotor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterBasicLEDDimmer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterBasicLEDLightUp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterBasicLEDSwitch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterBasicMultipleLEDs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterBasicPIRSensor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterBasicRGBLED.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterBasicTemperatureSensor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterBasicTiltSensor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterCircuitAssemblyGlow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterCircuitAssemblyMove.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterCircuitAssemblySpin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterMicrobitAlarm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterMicrobitAnalog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterMicrobitBreadboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterMicrobitBreakout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterMicrobitCompass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterMicrobitGestures.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterMicrobitLight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterMicrobitMoisture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterMicrobitRadio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/starterMicrobitServo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/transistorNMOS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/transistorNMOSFET.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/transistorNPN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/transistorPMOS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/transistorPMOSFET.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/transistorPNP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/transistorTIP120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/usbStandardA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/utag.24.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/utag.328.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/utag.356.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/utag.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/utag.tagsOptOut.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/vendor-compiled.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/vendorBundle.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/wads.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/webgl_check.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Circuit design PRACTICAL 1 _ Tinkercad_files/webgl_utils.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/IOT4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/IOT5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/PRACTICAL 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/PRACTICAL 3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/PRACTICAL 5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/PRACTICAL 9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Practical 10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Practical 11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Practical 11_21.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Practical 4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Practical 6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Practical 8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/Practical7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IOT/practicals/practical 1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Presentation 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../REPORT ORIGINAL.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../REPORT ORIGINAL.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Report.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Streaming Media.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/appInsightsSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_3_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_exifinterface_exifinterface_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_amitshekhar_android_android_networking_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_flaviofaria_kenburnsview_1_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_gauravk_bubblenavigation_bubblenavigation_1_0_7_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_getkeepsafe_relinker_relinker_1_2_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_annotations_4_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_disklrucache_4_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_11_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_11_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_florent37_diagonallayout_1_0_9_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ivbaranov_materialfavoritebutton_0_1_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_ramotion_cardslider_card_slider_0_3_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_realm_realm_android_library_object_server_5_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_realm_realm_annotations_5_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/The_Movies.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/app/The_Movies.app.androidTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/app/The_Movies.app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/app/The_Movies.app.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/app/The_Movies.app.unitTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.gradle/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/project/moviesflix/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/ic_launcher-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/moviesflix/activities/DetailMovieActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/moviesflix/activities/DetailTelevisionActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/moviesflix/activities/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/moviesflix/activities/SettingActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/moviesflix/adapter/MovieAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/moviesflix/adapter/MovieHorizontalAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/moviesflix/adapter/TrailerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/moviesflix/adapter/TvAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/moviesflix/adapter/TvHorizontalAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/moviesflix/adapter/ViewPageAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/moviesflix/fragment/FragmentFavorite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/moviesflix/fragment/FragmentFavoriteMovie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/moviesflix/fragment/FragmentFavoriteTv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/moviesflix/fragment/FragmentMovie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/moviesflix/fragment/FragmentTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/moviesflix/model/ModelMovie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/moviesflix/model/ModelTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/moviesflix/model/ModelTrailer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/moviesflix/networking/ApiEndpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/moviesflix/notification/NotificationDailyReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/moviesflix/notification/NotificationReleaseReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/moviesflix/preference/SettingPreference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/moviesflix/realm/RealmHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/project/moviesflix/utils/BottomBarBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-anydpi/ic_search.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/pic3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/pic4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/pic_th.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/the_movies_high_resolution_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/the_movies_high_resolution_logo_removebg_preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/ic_movie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/ic_notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bg_overlay.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bg_rounded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bg_search.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/design_header.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_favorite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_favorite_border.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_image.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_live_tv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_movie.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_share.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tab_fav_color.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tab_movie_color.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tab_tv_color.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_setting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_favorite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_favorite_film.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_film.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_item_film.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_item_film_horizontal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_item_trailer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/toolbar_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/project/moviesflix/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../index.html.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vnd.openxmlformats-officedocument.presentationml.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/001--introduction.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/102045609-102045609_machine-learning.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/Coursera DMVP8BY5MJS7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/ML_MODULE1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/ML_MODULE2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/Mid Semester Syllabus.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/Model Preparation, Evaluation and Feature Engineering.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/PR 6 ML.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/PR 6 ML.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/PR 7 ML.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/PR 7 ML.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/Practical 10.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/Practical 8.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/Practical 9.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/Practical 9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/Question Bank.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/prac6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/prac7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/ML_PRACTICAL 11.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/ML_PRACTICAL 11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/ML_PRACTICAL 12.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/ML_PRACTICAL 12.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/PRACTICAL 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/PlayTennis.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/Practical 1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/Practical 1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/Practical 10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/Practical 2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/Practical 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/Practical 3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/Practical 3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/Practical 4.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/Practical 4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/Practical 5.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/Practical 5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/Practical 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/Practical 8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/Practical 9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/iris.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/prac 6.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/prac 7.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/prac 8.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/prac5.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/practical 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/practicals/practical 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/tennis.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/unit_1_PPT.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/102060621-102060621_multimedia-systems-and-applications.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/29.01.24.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/Assignmet 1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/Chapter9-Edition-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/Document 87.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/Fundamental of Multimedia.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/WhatsApp Image 2024-02-08 at 10.24.19_dd28df94.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/ppts chapter wise/Chapter1-Edition-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/ppts chapter wise/Chapter10-Edition-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/ppts chapter wise/Chapter11-Edition-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/ppts chapter wise/Chapter12-Edition-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/ppts chapter wise/Chapter13-Edition-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/ppts chapter wise/Chapter14-Edition-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/ppts chapter wise/Chapter15-Edition-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/ppts chapter wise/Chapter16-Edition-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/ppts chapter wise/Chapter17-Edition-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/ppts chapter wise/Chapter18-Edition-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/ppts chapter wise/Chapter19-Edition-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/ppts chapter wise/Chapter2-Edition-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/ppts chapter wise/Chapter20-Edition-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/ppts chapter wise/Chapter21-Edition-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/ppts chapter wise/Chapter3-Edition-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/ppts chapter wise/Chapter4-Edition-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/ppts chapter wise/Chapter5-Edition-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/ppts chapter wise/Chapter6-Edition-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/ppts chapter wise/Chapter7-Edition-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/ppts chapter wise/Chapter8-Edition-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MULTIMEDIA/ppts chapter wise/Chapter9-Edition-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/ASSIGNMENT 2.3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/Assignment_1_SE-Vasu.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/SRS VOTING.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/SRS_VOTING[1].docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/Unit 1.1 Introduction.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/Unit 1.2 Process Models.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/Unit 1.3 Agile Frameworks.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/Unit 2 Requirement Analysis and Specification.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/Unit 3 Software Project Management.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/Unit 4.1 Requirements Modeling .pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/Unit 5 Software Coding &amp; Testing.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/Unit 6 Quality Assurance &amp; Management.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/Unit 7 DevOps.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/practicals/12102080501076_01.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/practicals/12102080501076_02.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/practicals/12102080501076_03.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/practicals/12102080501076_04.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/practicals/12102080501076_07.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/practicals/12102080501076_08.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/practicals/ASSIGNMENT 3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/practicals/Assignment_1_SE.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/practicals/Assignment_2_SE.docx.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/practicals/Practical_12_SE.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/practicals/Practical_4_SE.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/practicals/SE_PR_12.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/practicals/p-5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/practicals/p-6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/practicals/p10_76.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SE/practicals/p9_76.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SEM 6.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.gradle/6.1.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.gradle/6.1.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.gradle/6.1.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.gradle/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_collection_collection_1_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_core_core_1_3_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_exifinterface_exifinterface_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_test_core_1_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_test_monitor_1_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_test_runner_1_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__com_amitshekhar_android_android_networking_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__com_flaviofaria_kenburnsview_1_0_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__com_gauravk_bubblenavigation_bubblenavigation_1_0_7_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__com_getkeepsafe_relinker_relinker_1_2_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__com_github_bumptech_glide_annotations_4_11_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__com_github_bumptech_glide_disklrucache_4_11_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_11_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_11_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__com_github_florent37_diagonallayout_1_0_9_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__com_github_ivbaranov_materialfavoritebutton_0_1_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__com_google_android_material_material_1_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__com_ramotion_cardslider_card_slider_0_3_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_10_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__com_squareup_okio_okio_1_14_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__io_realm_realm_android_library_object_server_5_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__io_realm_realm_annotations_5_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/modules/The_Movies.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/app/.gradle/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/app/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/app/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/app/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/app/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TheMovies-main/TheMovies-main/app/src/androidTest/java/com/project/moviesflix/ExampleInstrumentedTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\ABCD\.android\avd\Pixel_7_Pro_API_31.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="1isWUJROAYIxXbuSoWXMc52dlIY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/collage/MINIPROJECT/TheMovies-main/TheMovies-main",
+    "project.structure.last.edited": "Build Variants",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "recommended.upgrade.last.time.stamp": "1717050039845"
+  }
+}]]></component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="The_Movies.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54471f1a-db71-46a5-a7a7-8cf5f39add91" name="Default Changelist" comment="" />
+      <created>1602696793195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602696793195</updated>
+    </task>
+    <servers />
+  </component>
+</project>
